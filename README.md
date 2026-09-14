@@ -74,16 +74,45 @@ RA=7.2KΩ, RB= 3.6KΩ
 5.	Theoretically calculate the pulse duration as T=1.1 RAC
 
 
+**PIN DIAGRAM:**
+
+<img width="1600" height="900" alt="image" src="https://github.com/user-attachments/assets/bf385826-715a-42f4-b32c-f9451d572bcd" />
+
+
+**MONOSTABLE MULTIVIBRATOR:**
 
   **CIRCUIT DIAGRAM**
+<img width="1544" height="1600" alt="image" src="https://github.com/user-attachments/assets/8750f862-58b3-4029-9ed6-1603de00acb8" />
 
 
   **MODEL GRAPH:**
+<img width="1600" height="1490" alt="image" src="https://github.com/user-attachments/assets/612f4a5c-5893-444e-ab27-0556ec772c4d" />
 
 
   **TABULATION:**
- 
+<img width="1600" height="1049" alt="image" src="https://github.com/user-attachments/assets/cb40d171-86eb-4db6-b8f6-1a6733e3dec3" />
 
+
+  **GRAPH:**
+ <img width="1599" height="1460" alt="image" src="https://github.com/user-attachments/assets/0c14de76-3dd1-42d1-be43-1a16073b7fe7" />
+
+**ASTABLE MULTIVIBRATOR:**
+
+
+  **CIRCUIT DIAGRAM**
+
+<img width="1600" height="1576" alt="image" src="https://github.com/user-attachments/assets/c172c592-8134-4425-81ed-d509e855d5c3" />
+
+  **MODEL GRAPH:**
+
+<img width="1549" height="1600" alt="image" src="https://github.com/user-attachments/assets/9c20d694-72af-4418-a646-b39e776a932d" />
+
+  **TABULATION:**
+<img width="1600" height="799" alt="image" src="https://github.com/user-attachments/assets/95828925-7594-49e0-92ba-5ca0631fa1b4" />
+
+
+  **GRAPH:**
+<img width="1599" height="1508" alt="image" src="https://github.com/user-attachments/assets/b9d2bebe-e86f-4c46-83ea-fa9e6d886845" />
 
 
 
